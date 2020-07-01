@@ -1,0 +1,23 @@
+ZielOrdner: Reiseberichte
+DATEINAME: {{Test}}
+
+---
+title: "{{CR_TravelReports.TravelReportTitle}}"
+subTitle: "{{CR_TravelReports.SubTitle}}"
+summary: "{{CR_TravelReports.TeaserText}}"
+
+# post thumb
+image: "{{CR_TravelReports.MainImagePath}}"
+
+# taxonomies
+categories: 
+  - "Reisebericht" //Das müsste aus der Tabelle hervorgehen, ist aber denke ich "Handarbeit" also alles aus CR_TravelReports beispielsweise ist ein "Reisebericht" {{CR_TravelReports}}
+  - "{{CR_TravelReports.TravelReportGroupIdent}}"
+tags:
+  - "{{CR_TravelReports.TravelReportSubCategoryIdent}}"
+
+# post type
+type: "post"
+---
+
+{{CR_TravelReports.Description}} //HTML2Markdown
