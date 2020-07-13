@@ -6,3 +6,11 @@ BlogEntryCreator/BlogEntryCreator/obj/Debug/netcoreapp3.1/
 BlogEntryCreator/.vs/BlogEntryCreator/v16/.suo
 BlogEntryCreator/.vs/BlogEntryCreator/v16/.suo
 BlogEntryCreator/.vs/BlogEntryCreator/v16/.suo
+BlogCreator/obj/BlogEntryCreator.csproj.nuget.dgspec.json
+BlogCreator/obj/BlogEntryCreator.csproj.nuget.dgspec.json
+BlogCreator/obj/BlogEntryCreator.csproj.nuget.g.props
+BlogCreator/obj/Debug/netcoreapp3.1/BlogEntryCreator.assets.cache
+BlogCreator/obj/Debug/netcoreapp3.1/BlogEntryCreator.csprojAssemblyReference.cache
+BlogCreator/obj/project.assets.json
+BlogCreator/obj/project.nuget.cache
+*.cache

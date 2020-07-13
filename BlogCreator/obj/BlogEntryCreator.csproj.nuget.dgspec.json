@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projekte\\Sowatech-sonstiges\\caravaningreisenimport\\BlogEntryCreator\\BlogEntryCreator\\BlogEntryCreator.csproj": {}
+    "D:\\projekte\\blog-import\\BlogCreator\\BlogEntryCreator.csproj": {}
   },
   "projects": {
-    "C:\\Projekte\\Sowatech-sonstiges\\caravaningreisenimport\\BlogEntryCreator\\BlogEntryCreator\\BlogEntryCreator.csproj": {
+    "D:\\projekte\\blog-import\\BlogCreator\\BlogEntryCreator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projekte\\Sowatech-sonstiges\\caravaningreisenimport\\BlogEntryCreator\\BlogEntryCreator\\BlogEntryCreator.csproj",
+        "projectUniqueName": "D:\\projekte\\blog-import\\BlogCreator\\BlogEntryCreator.csproj",
         "projectName": "BlogEntryCreator",
-        "projectPath": "C:\\Projekte\\Sowatech-sonstiges\\caravaningreisenimport\\BlogEntryCreator\\BlogEntryCreator\\BlogEntryCreator.csproj",
-        "packagesPath": "C:\\Users\\KhaldounKalash\\.nuget\\packages\\",
-        "outputPath": "C:\\Projekte\\Sowatech-sonstiges\\caravaningreisenimport\\BlogEntryCreator\\BlogEntryCreator\\obj\\",
+        "projectPath": "D:\\projekte\\blog-import\\BlogCreator\\BlogEntryCreator.csproj",
+        "packagesPath": "C:\\Users\\Benutzer1\\.nuget\\packages\\",
+        "outputPath": "D:\\projekte\\blog-import\\BlogCreator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\KhaldounKalash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Benutzer1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
